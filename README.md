@@ -12,5 +12,6 @@ En esta aplicación implementé y use conceptos medios-avanzados de Java, como l
 2. Uso de diferentes clases que realice cada una algo en especifico
 3. Record -> para la conversión de datos 
 4. Interface -> para el uso de clasificaicón
+5. No menos importante, este proyecto fui subido desde Git en la terminal de IntelliJ
 
 Todo esto de la mano de intentar hacer el codigo más limpio y reutilizable!
